@@ -18,6 +18,11 @@ A small method to convert an ipv6 from hex to binary keeping the format _:_:_:_:
 ## Tests
 
   npm test
+  
+## Todo
+  add :: support
+  add :0: support
+  add :102: support
 
 ## Contributing
 
@@ -27,3 +32,5 @@ Add unit tests for any new or changed functionality. Lint and test your code.
 
 * 0.1.1 modified readme
 * 0.1.0 Initial release
+
+
