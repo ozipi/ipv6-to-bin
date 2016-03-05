@@ -1,4 +1,4 @@
-ipv6-to-bin [![Build Status](https://travis-ci.org/ozipi/ipv6-to-bin.svg?branch=master)](https://travis-ci.org/ozipi/ipv6-to-bin) [![Coverage Status](https://coveralls.io/repos/github/ozipi/ipv6-to-bin/badge.svg?branch=master)](https://coveralls.io/github/ozipi/ipv6-to-bin?branch=master)
+ipv6-to-bin [![npm version](https://img.shields.io/npm/v/ipv6-to-bin.svg?style=flat)](https://www.npmjs.com/package/ipv6-to-bin) [![Build Status](https://travis-ci.org/ozipi/ipv6-to-bin.svg?branch=master)](https://travis-ci.org/ozipi/ipv6-to-bin) [![Coverage Status](https://coveralls.io/repos/github/ozipi/ipv6-to-bin/badge.svg?branch=master)](https://coveralls.io/github/ozipi/ipv6-to-bin?branch=master)
 =========
 
 A small method to convert an ipv6 from hex to binary keeping the format _:_:_:_:_:_:_:_ (8 segments)
