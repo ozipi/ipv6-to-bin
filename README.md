@@ -13,7 +13,7 @@ A small method to convert an ipv6 from hex to binary keeping the format _:_:_:_:
   
   var localhost = ipv6ToBin('0000:0000:0000:0000:0000:0000:0000:0001');
 
-  console.log('routerIp', routerIp);
+  console.log('localhost', localhost);
 
 ## Tests
 
